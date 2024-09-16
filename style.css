@@ -1,0 +1,843 @@
+*{
+    margin: 0px; padding: 0px;
+}
+.clear{
+    clear: both;
+}
+body{
+    background-color: black;
+}
+.mane{
+    width: 1100px;
+    margin: auto;
+    background-color: #f1f0ef;
+}
+.row1{
+    height: 40px;
+    background-color: #343130;
+    color: white;
+    padding-top: 10px;
+}
+.row1c1{
+    width: 490px;
+    float: left;
+    padding-left: 10px;
+}
+.row1c2{
+    width: 260px;
+    float: right;
+    padding-left: 250px;
+}
+.c1logo{
+    float: left;
+}
+.c1link{
+    float: left;
+    margin-left: 10px;
+}
+.c2logo{
+    float: left;
+}
+.c2link{
+    float: left;
+    margin-left: 10px;
+}
+.row1 a{
+    text-decoration: none;
+}
+.row1 a {
+    color: white;
+}
+.row2{
+    margin-top: 10px;
+    background-color: white;
+}
+.r2c1{
+    float: left;
+}
+.r2c2{
+    float: left;
+}
+.r2c2 ul li{
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 130px;
+}
+.r2c2 a{
+    text-decoration: none;
+    color: black;
+
+}
+.row3{
+    margin-top: 10px;
+    background-color: white;
+
+}
+.r3c1{
+    float: left;
+    margin-left: 10px;
+}
+.r3menu1{
+    width: 250px;
+}
+.home{
+    margin-top: 10px;
+    text-align: center;
+    background-color: #00a8ec;
+    height: 35px;
+    padding-top: 5px;
+}
+.home a{
+    text-decoration: none;
+    color: white;
+}
+.r3menu2{
+    width: 250px;
+    margin-top: 20px;
+    border: solid black 1px;
+}
+.menu2hadding{
+    height: 40px;
+    text-align: center;
+    background-color: #ef9c00;
+    padding-top: 10px;
+}
+.menudot1{
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.menutext1{
+    height: 30px;
+    width: 210px;
+    float: left;
+    margin-bottom: 10px;
+}
+.r3c2{
+    width: 800px;
+    float: left;
+    margin-left: 10px;
+}
+.c2hadding{
+    width: 180px;
+    height: 45px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-top: 10px;
+    color: #00a8ec;
+    background-color: #f1f0ef;
+}
+.Courses{
+    margin-top: 10px;
+}
+.Courses1{
+    width: 350px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.Courses2{
+    width: 350px;
+    float: left;
+}
+.corline{
+    margin-bottom: 20px;
+}
+.corimg1{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #e6611c;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext1{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #e6611c;
+}
+.corimg2{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #5e5da4;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext2{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #5e5da4;
+}
+.corimg3{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #7bb1e0;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext3{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #7bb1e0;
+}
+.corimg4{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #89c222;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext4{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #89c222;
+}
+.corimg11{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #5e5da4;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext11{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #5e5da4;
+}
+.corimg22{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #d60726;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext22{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #d60726;
+}
+.corimg33{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #308a7c;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext33{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #308a7c;
+}
+.corimg44{
+    width: 35px;
+    height: 35px;
+    float: left;
+    background-color: #e6611c;
+    border-radius: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.cortext44{
+    height: 40px;
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+    color: #e6611c;
+}
+.row4{
+    margin-top: 10px;
+}
+.row4hadding{
+    text-align: center;
+    color: #00a8ec;
+}
+.work{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.work1{
+    width: 250px;
+    height: 120px;
+    float: left;
+    margin-left: 15px;
+    background-image: url(images/how/HOW-WE-WORK1.png);
+    background-color: rgba(188,72,109,0.8);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-shadow: black 0px 0px 5px;
+    padding-top: 80px;
+}
+.work2{
+    width: 250px;
+    height: 120px;
+    float: left;
+    margin-left: 15px;
+    background-image: url(images/how/HOW-WE-WORK2.png);
+    background-color: rgba(233, 79, 113, 0.8);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-shadow: black 0px 0px 5px;
+    padding-top: 80px;
+}
+.work3{
+    width: 250px;
+    height: 120px;
+    float: left;
+    margin-left: 15px;
+    background-image: url(images/how/HOW-WE-WORK3.png);
+    background-color: rgba(237,136,56,0.8);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-shadow: black 0px 0px 5px;
+    padding-top: 80px;
+}
+.work4{
+    width: 250px;
+    height: 120px;
+    float: left;
+    margin-left: 15px;
+    background-image: url(images/how/HOW-WE-WORK4.png);
+    background-color: rgba(244,183,65,0.8);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-shadow: black 0px 0px 5px;
+    padding-top: 80px;
+}
+.footer{
+    background-color: #343130;
+    color: white;
+}
+.footer1{
+    width: 250px;
+    margin-left: 20px;
+    float: left;
+}
+.footerhadding{
+    margin-bottom: 20px;
+}
+.footermenu ul li{
+    margin-bottom: 10px;
+    list-style-type: none;
+    font-size: 16px;
+}
+.footermenu a{
+    text-decoration: none;
+    color: white;
+}
+.logo ul li{
+    display: inline-block;
+    margin-left: 10px;
+}
+.footerend{
+    height: 30px;
+    background-color: #302d2c;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    padding-top: 10px;
+}
+.abouthadding1{
+    width: 350px;
+    float: left;
+}
+.abouthadding2{
+    width: 430px;
+    float: left;
+    text-align: right;
+}
+.abouthadding2 a{
+    text-decoration: none;
+    color: #00a8ec;
+}
+.abouttext{
+    margin-top: 20px;
+}
+.abouttext p{
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+.abouthaddingand{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.abouthaddingline{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.corimg{
+    width: 250px;
+    height: 280px;
+    border: solid #e6611c;
+    background-color: #e6611c;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimg1{
+    width: 200px;
+    height: 200px;
+    border: solid #e6611c;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimground{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #e6611c;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/php.png);
+    background-color: #e6611c;
+}
+.coursestext{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #e6611c;
+
+}
+.corimgp2{
+    width: 250px;
+    height: 280px;
+    border: solid #7bb1e0;
+    background-color: #7bb1e0;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp2{
+    width: 200px;
+    height: 200px;
+    border: solid #7bb1e0;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp2{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #7bb1e0;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/python.png);
+    background-color: #7bb1e0;
+}
+.coursestextp2{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #7bb1e0;
+}
+.corimgp3{
+    width: 250px;
+    height: 280px;
+    border: solid #5e5da4;
+    background-color: #5e5da4;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp3{
+    width: 200px;
+    height: 200px;
+    border: solid #5e5da4;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp3{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #5e5da4;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/adv-php.png);
+    background-color: #5e5da4;
+}
+.coursestextp3{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #5e5da4;
+}
+.corimgp4{
+    width: 250px;
+    height: 280px;
+    border: solid #308a7c;
+    background-color: #308a7c;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp4{
+    width: 200px;
+    height: 200px;
+    border: solid #308a7c;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp4{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #308a7c;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/seo.png);
+    background-color: #308a7c;
+}
+.coursestextp4{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #308a7c;
+}
+.corimgp5{
+    width: 250px;
+    height: 280px;
+    border: solid #89c222;
+    background-color: #89c222;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp5{
+    width: 200px;
+    height: 200px;
+    border: solid #89c222;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp5{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #89c222;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/abdroid.png);
+    background-color: #89c222;
+}
+.coursestextp5{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #89c222;
+}
+.corimgp6{
+    width: 250px;
+    height: 280px;
+    border: solid #d60726;
+    background-color: #d60726;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp6{
+    width: 200px;
+    height: 200px;
+    border: solid #d60726;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp6{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #d60726;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/graphic-design.png);
+    background-color: #d60726;
+}
+.coursestextp6{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #d60726;
+}
+.corimgp7{
+    width: 250px;
+    height: 280px;
+    border: solid #5e5da4;
+    background-color: #5e5da4;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp7{
+    width: 200px;
+    height: 200px;
+    border: solid #5e5da4;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp7{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #5e5da4;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/digi-mkting.png);
+    background-color: #5e5da4;
+}
+.coursestextp7{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #5e5da4;
+}
+.corimgp8{
+    width: 250px;
+    height: 280px;
+    border: solid #e6611c;
+    background-color: #e6611c;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp8{
+    width: 200px;
+    height: 200px;
+    border: solid #e6611c;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp8{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid #e6611c;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/wordpress.png);
+    background-color: #e6611c;
+}
+.coursestextp8{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: #e6611c;
+}
+.corimgp9{
+    width: 250px;
+    height: 280px;
+    border: solid darkgreen;
+    background-color: darkgreen;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.coursesimgp9{
+    width: 200px;
+    height: 200px;
+    border: solid darkgreen;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 20px;
+}
+.coursesimgroundp9{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: solid darkgreen;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+    margin-left: 13px;
+    background-image: url(images/icons/java.png);
+    background-color: darkgreen;
+}
+.coursestextp9{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    color: darkgreen;
+}
+.Galleryimg{
+    width: 250px;
+    height: 320px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.Galleryimg1{
+    width: 250px;
+    height: 250px;
+    border-top-left-radius:5px ;
+    border-top-right-radius: 5px;
+}
+.Galleryimgtext{
+    width: 250px;
+    height: 30px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #343130;
+    color: white;
+    padding-top: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.Enquiry1{
+    margin-top: 20px;
+}
+.Enquiryname{
+    width: 150px;
+    float: left;
+    margin-left: 20px;
+}
+.Enquirybox{
+    float: left;
+    margin-left: 20px;
+}
+.taxtboxar{
+    width: 250px;
+    height: 130px;
+}
+.Enquirybutton{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.button{
+    width: 70px;
+    height: 40px;
+    background-color: #00a8ec;
+}
+.Enquirybutton a{
+    text-decoration: none;
+    color: white;
+}
+.contact1{
+    float: left;
+    width: 350px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.contact2{
+    float: left;
+    width: 350px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.phoneimg{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.phoneno{
+    margin-top: 10px;
+}
+.contact1 a{
+    text-decoration: none;
+    color: #00a8ec;
+}
+.contacthadding{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.locationimg{
+    margin-bottom: 20px;
+}
